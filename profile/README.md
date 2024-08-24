@@ -9,4 +9,4 @@ Znajdziesz tutaj bardziej techniczne rzeczy takie jak listę datapacków użytyc
 💬 discord: **dc.globmc.pl**
 
 ### Zawartość
-- [Wiki](https://github.com/GlobMc-pl/Main/wiki) - wikipedia naszego serwera.
+- [Wiki](https://globmcpl.github.io/Wiki/#/) - wikipedia naszego serwera.
